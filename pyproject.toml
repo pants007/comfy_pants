@@ -1,0 +1,15 @@
+[project]
+name = "comfy-pants"
+description = "Nodes: Make Square Node, Interrogate Node, TextEncodeAIO"
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["clip-interrogator==0.6.0"]
+
+[project.urls]
+Repository = "https://github.com/pants007/comfy-pants"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfy-pants"
+Icon = ""
